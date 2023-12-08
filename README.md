@@ -1,0 +1,1 @@
+# database_for_ski_resort

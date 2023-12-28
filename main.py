@@ -1,5 +1,3 @@
-# pip install faker
-# pip install pymysql
 # region Config
 host = "localhost"
 user = "root"
@@ -602,7 +600,7 @@ def application() -> None:
     window = tk.Tk()
     screen_width = window.winfo_screenwidth()
     screen_height = window.winfo_screenheight()
-    window_width = 1200
+    window_width = 500
     window_height = 600
     x = (screen_width // 2) - (window_width // 2)
     y = (screen_height // 2) - (window_height // 2)
